@@ -16,11 +16,10 @@
  <p align="center"> 
   <img src="https://i.imgur.com/A5P1sxz.png" width="600">
 
-<p align="right">
-  <a href="<p align="left">
-  <a href="https://bettypet.straw.page">, straw</a>
+<p align="center"> 
+  <a href="https://bettypet.straw.page"> straw</a>
 </p>
 
-<p align="right">
-  <a href="https://bettypet.atabook.org">, atabook !</a>
+<p align="center"> 
+  <a href="https://bettypet.atabook.org"> atabook</a>
 </p>
