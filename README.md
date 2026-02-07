@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://i.imgur.com/lxcp2yP.jpeg" width="600">
+  <img src="https://i.imgur.com/pP4hW9q.png)" width="600">
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=bettypet&color=D8A165&style=Zen+Old+Mincho&duration=flat&label=⋆sinners⋆"/>
